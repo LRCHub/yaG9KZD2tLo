@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Torpor",
+  "base_artist": "ChroNoiR",
+  "createdAt": "2026-03-01T06:52:16.352605Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sleeping Torpor",
+      "artist": "Anathallo",
+      "has_synced": true,
+      "path": "select/01_Sleeping_Torpor_Anathallo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Through Your Torpor",
+      "artist": "Alastis",
+      "has_synced": true,
+      "path": "select/02_Through_Your_Torpor_Alastis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "To Carry My Grief Through Torpor and Silence",
+      "artist": "Allegaeon",
+      "has_synced": true,
+      "path": "select/03_To_Carry_My_Grief_Through_Torpor_and_Silence_Allegaeon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Torpor",
+      "artist": "Negative XP",
+      "has_synced": true,
+      "path": "select/04_Torpor_Negative_XP.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Boundless Torpor",
+      "artist": "Cassus",
+      "has_synced": false,
+      "path": "select/05_Boundless_Torpor_Cassus.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Torpor",
+      "artist": "ChroNoiR",
+      "has_synced": false,
+      "path": "select/06_Torpor_ChroNoiR.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Torpor",
+      "artist": "ChroNoiR",
+      "has_synced": false,
+      "path": "select/pl_01_Torpor_ChroNoiR.txt"
+    }
+  ]
+}
